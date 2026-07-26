@@ -85,3 +85,4 @@ This code of conduct is based on the [Open Code of Conduct](https://github.com/t
 the [TODOGroup](http://todogroup.org).
 
 We are thankful for their work and all the communities who have paved the way with code of conducts.
+practicing git and github
